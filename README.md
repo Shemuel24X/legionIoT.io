@@ -44,12 +44,4 @@ legioniot.io/
 
 ---
 
-## ✅ Next Steps for You
 
-1. **Save the above as `README.md`** in your root folder
-2. Run this:
-
-```bash
-git add README.md
-git commit -m "Added project README"
-git push origin main

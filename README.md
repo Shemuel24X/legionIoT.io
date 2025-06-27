@@ -40,4 +40,16 @@ legioniot.io/
 ├── pages/            # Individual topic pages
 ├── video/intro.mp4   # Intro video (placeholder)
 ├── images/logo.png   # Logo image (placeholder)
-└── .nojekyll         # Disables GitHub Jekyll
+└── .nojekyll         # Disables GitHub Jekyll  
+
+---
+
+## ✅ Next Steps for You
+
+1. **Save the above as `README.md`** in your root folder
+2. Run this:
+
+```bash
+git add README.md
+git commit -m "Added project README"
+git push origin main
